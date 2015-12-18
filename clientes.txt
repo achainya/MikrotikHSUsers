@@ -1,0 +1,9 @@
+Nombre edad Moroso
+Daniel 42 Si
+Jose 15 Si
+Manolo 50 No
+Alicia 12 No
+Javier 46 No
+Arturo 60 Si
+Basilio 30 No
+Maria 40 No
